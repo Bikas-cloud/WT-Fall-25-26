@@ -20,7 +20,7 @@
 </head>
 <body>
     <center>
-        <h1>wellcome to Blood Management System </h1>
+        <h1>Wellcome to Blood Management System </h1>
 </center>
  
 <div class="form">
